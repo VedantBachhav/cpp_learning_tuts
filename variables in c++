@@ -1,0 +1,30 @@
+//     VARIABLES IN C++    //
+
+* A Variable is a container to hold data.
+ex : int  sum = 34 ; means sum is an integer variable which holds value 34 in.
+
+* Variables can be of various types. But  primarily we have these variable type in C++.
+1) int      ex : -2, -1, 0, 1, 2, 3.                                
+2) float    ex : decimal values  : 1.00, 2.34, 5.87
+3) char     ex : alphabets : a,b,..z.
+4) double   ex : decimal values but after decimal more number include. : 4.0987655,56.976875
+5) boolean  ex : conditions : true, false.
+
+
+//     VARIABLE SCOPE    //
+
+                           *****don't understad*****
+
+* Scope of a variable is the region in code where the existance of variable is valid.
+* There are basically two scope in c++.  1) Local variable. 2) Global variable.
+
+1) Local variable : Local variables are declared inside the braces of any function and can be
+ accessed only from there.
+
+2) Global variable : Global variables are declared outside any function and can be accessed
+ from anywere.
+ C++ Keyword
+
+
+
+

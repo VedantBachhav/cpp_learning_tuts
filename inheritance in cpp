@@ -1,0 +1,25 @@
+/*What is inheritance in cpp.
+* The  concept of Reusability in c++ is suppoted using Inheritance.
+* We can reuse the properties of an existing class by inheritance from it.
+* The existing class is called as the BASE CLASS.
+* The new class which is inheritance is called as the DERIVED CLASS.
+* Reusing classes saves time and money.
+* There are different types of inheritance in c++.
+
+
+
+Types of inheritance in cpp :
+
+1) Single inheritance : A derived class with only one Base class.
+
+2) Multiple inheritance :  A derived class with more than one Base class.
+
+3) Hierachical inheritance : Several derived classes from a Single Base class.
+
+4) Multilevel inheritance  : Deriving  a class from already derived class.
+
+5) Hybrid inheritance  : Hybrid inheritance is a combination of Multipal INHERITANCE and Multilevel INHERITANCE.
+* A class is derived from two classes as in Multipal inheritance.
+* However, one of the parent classesin not a base class.
+*/
+
